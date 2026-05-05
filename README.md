@@ -1,5 +1,6 @@
 # LOVE-2D-Auto-exe-packager
 
+
 # How to Setup:
 1. Open the .bat file in notepad or any text editor
 2. Replace The Love path to where your love.exe is located (if installed with installer it is probably fine, just dont forget to remove the comments
