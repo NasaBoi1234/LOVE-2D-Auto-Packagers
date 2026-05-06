@@ -20,7 +20,7 @@ if not exist "%ResourceHacker%" (
 
 :: EDIT THIS: Output directory for the final .zip file
 :: Change this to your preferred download location
-set "OutDownloads=C:\Users\wbish\Downloads"
+set "OutDownloads=C:\Users\YourUsername\Downloads"
 
 set "Out=%~dp0%Name%_Windows"
 set "Love=%~dp0%Name%.love"
