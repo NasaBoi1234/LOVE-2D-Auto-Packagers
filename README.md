@@ -79,7 +79,6 @@ If no `.ico` file is found, your game will use the default LÖVE icon.
 
 The final `.zip` file will contain:
 - `YourGame.exe` - Standalone executable
-- `YourGame.love` - The LÖVE game file
 - All required `.dll` files from LÖVE
 - `license.txt` (LÖVE license)
 
