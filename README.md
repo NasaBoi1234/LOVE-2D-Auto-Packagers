@@ -106,7 +106,7 @@ Users can extract this `.zip` and run `YourGame.exe` without installing LÖVE.
 
 ## Issues
 
-Please use the issues tab in github to report it and explain how to recreate it
+Please use the [issues tab in github](https://github.com/NasaBoi1234/LOVE-2D-Auto-exe-packager/issues/new) to report it and explain how to recreate it
 
 ## License
 
