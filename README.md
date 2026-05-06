@@ -104,6 +104,10 @@ Users can extract this `.zip` and run `YourGame.exe` without installing LÖVE.
 - Verify Resource Hacker is installed correctly
 - The `.ico` file must be a valid Windows icon format
 
+## Issues
+
+Please use the issues tab in github to report it and explain how to recreate it
+
 ## License
 
 This script is provided as-is. Use it freely for your LÖVE2D projects.
